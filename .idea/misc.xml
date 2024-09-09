@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/atividade01/pom.xml" />
+        <option value="$PROJECT_DIR$/atividade03/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio03/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio01/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio02/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio00/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio04/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio06/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio07/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
